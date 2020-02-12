@@ -6,10 +6,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="Greeting.FSX" />
+    <None Include="Scripts\CalculateAge.FSX" />
+    <None Include="Scripts\Greeting.FSX" />
     <Compile Include="Main.FS" />
   </ItemGroup>
-
-  <ItemGroup />
 
 </Project>
