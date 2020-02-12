@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.SDK">
+
+  <PropertyGroup>
+    <OutputType>EXE</OutputType>
+    <TargetFramework>NetCoreApp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="Greeting.FSX" />
+    <Compile Include="Main.FS" />
+  </ItemGroup>
+
+  <ItemGroup />
+
+</Project>
