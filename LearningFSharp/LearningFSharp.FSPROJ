@@ -6,9 +6,16 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="Resources\Functional Programming For Dummies.PDF" />
-    <None Include="Resources\Functional Programming Using F#.EPUB" />
-    <None Include="Resources\Get Programming With F# - A Guide For .NET Developers.PDF" />
+    <None Include="Resources\[2013] F# For Quantitative Finance.PDF" />
+    <None Include="Resources\[2013] Functional Programming Using F#.EPUB" />
+    <None Include="Resources\[2014] The Book Of F#.PDF" />
+    <None Include="Resources\[2015] Expert F# 4.0, 4th Edition.PDF" />
+    <None Include="Resources\[2015] Learning F# Functional Data Structures And Algorithms.PDF" />
+    <None Include="Resources\[2016] Beginning F# 4.0, Second Edition.PDF" />
+    <None Include="Resources\[2016] F# For Machine Learning Essentials.PDF" />
+    <None Include="Resources\[2017] F# For Fun And Profit.PDF" />
+    <None Include="Resources\[2018] Get Programming With F# - A Guide For .NET Developers.PDF" />
+    <None Include="Resources\[2019] Functional Programming For Dummies.PDF" />
     <None Include="Scripts\CalculateAge.FSX" />
     <None Include="Scripts\Greeting.FSX" />
     <Compile Include="Main.FS" />
